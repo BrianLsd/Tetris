@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-image: url("background.jpg");
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(248, 252, 9);
+    font-size:40px;
+    font-style: italic;
+}
+
+#my-canvas{
+    background:white;
+    margin: auto;
+}
