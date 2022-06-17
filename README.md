@@ -1,1 +1,3 @@
 # CP1290-Final-Project
+
+The project is called Tetris, which is straightforward as the name indicates. Users can use the keyboard to control how the tetromino moves. After the page is loaded, the game will start. Tetromino will appear at the upper left-hand part of the game board in a random shape. “A” key is for moving left, “D” is moving right, “S” key is for moving down, which allows the tetromino to fall faster, and “E” makes the tetromino rotate. Every time a row gets cleared; the score will go up by 100. The win/lose section shows whether the game is running or over. I did not do much regarding the levels (the higher level the user gets, the higher speed will apply). Therefore, the game will keep running until the player fails, and the level will remain one.
